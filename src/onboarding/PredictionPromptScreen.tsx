@@ -86,7 +86,7 @@ export default class PredictionPromptScreen extends React.Component<
         style={{
           paddingTop: 24 + Constants.statusBarHeight,
           paddingHorizontal: 24,
-          backgroundColor: theme.lightOffwhite,
+          backgroundColor: theme.pink,
           flex: 1,
         }}
       >

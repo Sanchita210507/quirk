@@ -9,7 +9,7 @@ const ALL_ENTITLEMENTS = ["subscription"]; // what you can buy
 
 // The current offering we're selling to folks
 // TODO: A/B tests, deals, and other price changes can go here
-// Modified by Sanchita
+
 const getMainOffering = () => {
   return "monthly";
 };
